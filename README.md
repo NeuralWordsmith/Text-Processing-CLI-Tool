@@ -1,4 +1,3 @@
-# text-processing-cli
 # Text Processing CLI Tool  
 
 A powerful Command-Line Interface (CLI) tool for text analysis, including:
