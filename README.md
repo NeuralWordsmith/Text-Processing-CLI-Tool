@@ -49,12 +49,12 @@ python -m spacy download en_core_web_sm
 
 Run the tool with a text file:  
 ```sh
-python import.py your_text_file.txt
+python TPCT.py your_text_file.txt
 ```
 
 ### Example Run
 ```sh
-python import.py test_text.txt
+python TPCT.py test_text.txt
 ```
 You'll see the interactive menu:
 ```
